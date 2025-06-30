@@ -2,6 +2,11 @@
 
 This is a simple Python application that provides AES-256 encryption and decryption for files using a password-based key derivation function (PBKDF2). The application features a graphical user interface (GUI) built with Tkinter for easy file selection and password input.
 
+## 🔐 Screenshots
+
+### Result
+![Result](p22.png)
+
 ## Features
 
 - AES-256 encryption in CFB mode
