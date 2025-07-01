@@ -2,6 +2,18 @@
 
 This is a simple Python application that provides AES-256 encryption and decryption for files using a password-based key derivation function (PBKDF2). The application features a graphical user interface (GUI) built with Tkinter for easy file selection and password input.
 
+**COMPANY** :- CODTECH IT SOLUTIONS 
+
+**NAME** : KUNUKU SUSHMA 
+
+**INTERN ID** : CT06DN1234
+
+**DOMAIN** : Cyber Security & Ethical Hacking
+
+**DURATION** : 6 WEEKS
+
+**MENTOR** : NEELA SANTOSH 
+
 ## 🔐 Screenshots
 
 ### Result
